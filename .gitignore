@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Airflow logs
+logs/
+dags/__pycache__/
+
+# Env files
+.env
+
+# OS
+.DS_Store
+Thumbs.db
